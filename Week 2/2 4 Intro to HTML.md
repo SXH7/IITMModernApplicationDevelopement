@@ -24,7 +24,7 @@ Tags can be nested. If tag2 is inside tag1 for example, tag2 needs to be closed 
 
 For example
 
-✅ <p><h1> Hello World </h1> </p>
+✅ ```<p><h1> Hello World </h1> </p>```
 
 ❌ <p><h1> Hello World <p><h1>
 
