@@ -26,7 +26,7 @@ For example
 
 ✅ ```<p><h1> Hello World </h1> </p>```
 
-❌ <p><h1> Hello World <p><h1>
+❌ ```<p><h1> Hello World <p><h1>```
 
 # Document Object Model
 
